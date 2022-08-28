@@ -1,5 +1,3 @@
-👋
-
 <!--
 
 **Here are some ideas to get you started:**
@@ -14,13 +12,7 @@
 
 # Petite école SSL : Session "août 2022"
 
-La première édition de la Petite École SSL se déroulera les 29, 30 et 31 août 2022
-
-à l'IUT de Bordeaux (site de  Gradignan). Il s'agit de 3 journées de présentations,
-
-ateliers, échanges, ouvertes aux personnes intéressées par la ligue SSL (junior et
-
-major) de la Robocup.
+La première édition de la Petite École SSL se déroulera les 29, 30 et 31 août 2022 à l'IUT de Bordeaux (site de  Gradignan). Il s'agit de 3 journées de présentations, ateliers, échanges, ouvertes aux personnes intéressées par la ligue SSL (junior et major) de la Robocup.
 
 ## Programme (**prévisionnel**)
 
@@ -30,7 +22,7 @@ major) de la Robocup.
 - Evitement d'obstacles
 - Programmation en mode bloc pour SSL Junior
 - De la SSL Junior à la SSL Major
-- Matches SSL Junior : Humain VS IA
+- Manette pour robot SSL Junior
 
 ### Planning
 
@@ -43,8 +35,8 @@ major) de la Robocup.
 #### Mercredi après-midi
 
 - 14h Tournoi SSL Junior
-- 15h Démos des ateliers
+- 15h30 Démos des ateliers
 
-## Pot de cloture
+## Pot de clôture
 
 - Mercredi à 17h30
